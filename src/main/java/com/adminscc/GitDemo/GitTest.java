@@ -1,0 +1,11 @@
+package com.adminscc.GitDemo;
+
+/**
+ * @author adminscc
+ * @data 2022/2/8 - 22:00
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello Git!");
+    }
+}
